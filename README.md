@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luong Quoc Viet
 - 👀 I’m interested in web develop, control system, and artificial intelligent 
-- 🌱 I’m currently learning PhD in KAU
+- 🌱 I’m currently pursuing a PhD in KAU
 - 💞️ I’m looking to collaborate on building the web application with AI and smart material
 - 📫 How to reach me at lqviet@kau.kr
 
